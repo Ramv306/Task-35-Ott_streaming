@@ -1,0 +1,5 @@
+show_id,type,title,director,country,date_added,release_year,rating,duration,listed_in,,,,,,,,,
+s1,Movie,The,Great,Show,John,Doe,India,September,25,2021,2021,PG-13,90,min,Dramas,,,
+s2,TV,Show,Mystery,Island,Jane,Smith,United,States,October,12,2022,2022,TV-MA,2,Seasons,Crime,TV,Shows
+s3,Movie,Laugh,Out,Loud,Bob,Johnson,United,Kingdom,January,15,2020,2020,TV-14,105,min,Comedies,,
+s4,TV,Show,Tech,Titans,Alice,Brown,India,November,5,2023,2023,TV-PG,1,Season,Tech,&,Science,
